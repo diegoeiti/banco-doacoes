@@ -1,10 +1,7 @@
 {
-    "$schema": "https://www.schemastore.org/package.json",
     "private": true,
-    "type": "module",
     "scripts": {
-        "build": "vite build",
-        "dev": "vite"
+        "build": "echo 'No build needed for Laravel'"
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",
